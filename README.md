@@ -1,16 +1,17 @@
-### Hi there 👋
+![SaudiGN](https://pbs.twimg.com/profile_banners/1499380001497657346/1653828476/1500x500)
 
-<!--
-**SaudiGN/SaudiGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Saudi game news
+A Saudi platform specialized in all areas of game development
 
-Here are some ideas to get you started:
+[![website](https://img.shields.io/badge/Official%20website-SaudiGN-purple)](https://saudigamenews.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub products
+- SaudiGB, A discord bot for our [official discord server](https://discord.gg/saudign).
+
+### Support/Help
+- Discord server : https://discord.gg/saudign
+- Email : contact@saudigamenews.com
+
+# Follow us
+[![twitter](https://img.shields.io/twitter/url?label=SaudiGN&style=social&url=https%3A%2F%2Ftwitter.com%2FSaudign_sa)](https://twitter.com/saudign_sa)
+[![linkedin](https://img.shields.io/twitter/url?label=SaudiGN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fsaudign%2F)](https://www.linkedin.com/company/saudign)
