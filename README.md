@@ -1,12 +1,18 @@
 ![SaudiGN](https://pbs.twimg.com/profile_banners/1499380001497657346/1653828476/1500x500)
-
-# Saudi game news
+<div align="center">
 A Saudi platform specialized in all areas of game development
 
 [![website](https://img.shields.io/badge/Official%20website-SaudiGN-purple)](https://saudigamenews.com)
+</div>
 
-### GitHub products
-- SaudiGB, A discord bot for our [official discord server](https://discord.gg/saudign).
+### SaudiGB.cs
+- An open source discord bot for our official discord server.
+- Built using C#.
+- bot repo: https://github.com/SaudiGN/SaudiGB.cs.
+
+### SaudiGB.js
+- A discord bot for our official discord server.
+- Built using Java script.
 
 ### Support/Help
 - Discord server : https://discord.gg/saudign
