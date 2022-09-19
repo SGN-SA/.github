@@ -10,9 +10,17 @@ A Saudi platform specialized in all areas of game development
 - Built using Discord.js + Node js.
 
 ### Support/Help
-- Discord server : https://discord.gg/saudign
 - Email : contact@saudigamenews.com
+- Join our Discord server below
 
 # Follow us
-[![twitter](https://img.shields.io/twitter/url?label=SaudiGN&style=social&url=https%3A%2F%2Ftwitter.com%2FSaudign_sa)](https://twitter.com/saudign_sa)
-[![linkedin](https://img.shields.io/twitter/url?label=SaudiGN&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fsaudign%2F)](https://www.linkedin.com/company/saudign)
+[![saudign discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/cp8XsStTCp)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?e&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=saudign_sa)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?lable=SaudiGN&logo=linkedin)](https://www.linkedin.com/company/saudign)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOq4LxhPRwe9CVs37plZiTQ)
+[![github](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)](https://github.com/SaudiGN)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSGLrRWPNTdgtJQmDqgnSrztDMRdcmPffMKtGMHqwfgPZvnhSqjTCKFQtlHHBRtSgXcMptDs)
+
+<!-- https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white -->
+<!-- https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white -->
+<!-- https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white -->
