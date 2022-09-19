@@ -5,14 +5,9 @@ A Saudi platform specialized in all areas of game development
 [![website](https://img.shields.io/badge/Official%20website-SaudiGN-purple)](https://saudigamenews.com)
 </div>
 
-### SaudiGB.cs
-- An open source discord bot for our official discord server.
-- Built using C#.
-- bot repo: https://github.com/SaudiGN/SaudiGB.cs.
-
 ### SaudiGB.js
 - A discord bot for our official discord server.
-- Built using Java script.
+- Built using Discord.js + Node js.
 
 ### Support/Help
 - Discord server : https://discord.gg/saudign
