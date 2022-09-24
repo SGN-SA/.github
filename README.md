@@ -19,7 +19,6 @@ A Saudi platform specialized in all areas of game development
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?lable=SaudiGN&logo=linkedin)](https://www.linkedin.com/company/saudign)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOq4LxhPRwe9CVs37plZiTQ)
 [![github](https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white)](https://github.com/SaudiGN)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSGLrRWPNTdgtJQmDqgnSrztDMRdcmPffMKtGMHqwfgPZvnhSqjTCKFQtlHHBRtSgXcMptDs)
 
 <!-- https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white -->
 <!-- https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white -->
