@@ -1,4 +1,5 @@
-![SaudiGN](https://pbs.twimg.com/profile_banners/1499380001497657346/1653828476/1500x500)
+![Logo](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)
+
 <div align="center">
 A Saudi platform specialized in all areas of game development
 
@@ -14,6 +15,7 @@ A Saudi platform specialized in all areas of game development
 - Join our Discord server below
 
 # Follow us
+
 [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/servers/saudign-962095121946521600)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?lable=SaudiGN&logo=linkedin)](https://www.linkedin.com/company/saudign)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?e&logo=twitter&logoColor=white)](https://twitter.com/saudign_sa)
