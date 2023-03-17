@@ -1,16 +1,25 @@
-![Logo](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)
+[![banner](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)](https://links.saudigamenews.com)
 
 <div align="center">
-A Saudi platform specialized in all areas of game development
 
-[![website](https://img.shields.io/badge/Official%20website-SaudiGN-purple)](https://saudigamenews.com)
+[![official website](https://img.shields.io/badge/Official%20website-SaudiGN-6945ff)](https://saudigamenews.com)
+[![links page](https://img.shields.io/badge/Links%20page-SaudiGN-ff0df9)](https://links.saudigamenews.com)
+
 </div>
 
-### SaudiGB
-- A discord bot for our official discord server.
-- Built using Discord.js + Node js.
+<br>
 
-### Support/Help
+# About us
+
+منصة مختصة بتطوير الألعاب بجميع مجالاته
+
+نطمح لأن نكون وجهة المطور العربي الأولى في طريقه للنجاح
+
+# Projects
+
+Coming ...
+
+# Support/Help
 - Email : contact@saudigamenews.com
 - Join our Discord server below
 
