@@ -2,11 +2,7 @@
 
 [![banner](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)](https://links.saudigamenews.com)
 
-</div>
-
 # About us
-
-<div align="center">
 
 [![Website](https://img.shields.io/badge/Website-SaudiGN-6945ff)](https://saudigamenews.com)
 [![links page](https://img.shields.io/badge/Links%20page-SaudiGN-ff0df9)](https://links.saudigamenews.com)
@@ -14,10 +10,6 @@
 منصة تدعم تطوير الألعاب محلياً
 
 نطمح لأن نكون وجهة المطور العربي الأولى في طريقه للنجاح
-
-</div>
-
-<br>
 
 # Follow us
 
@@ -36,8 +28,6 @@
 
 [![discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/servers/saudign-962095121946521600)
 
-<br>
-
 # Support us
 
 ## Donate
@@ -49,9 +39,10 @@
 
 [![Trustpilot](https://img.shields.io/badge/Trustpilot-03B47B?&logo=trustpilot&logoColor=white)](https://trustpilot.com/review/saudigamenews.com)
 
-<br>
-
 # Help
 
--   Email: contact@saudigamenews.com
--   Join our [Discord server](https://discord.gg/saudign)
+البريد الإلكتروني: contact@saudigamenews.com
+
+سيرفرنا على دسكورد: https://discord.gg/saudign-962095121946521600
+
+</div>
