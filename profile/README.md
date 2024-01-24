@@ -18,7 +18,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/company/sgn-sa)
 [![twitter](https://img.shields.io/badge/𝕏/Twitter-000000?e&logo=x&logoColor=white)](https://x.com/sgn_ksa)
 [![instagram](https://img.shields.io/badge/Instagram-C13584?e&logo=instagram&logoColor=white)](https://instagram.com/sgn_sa)
-[![instagram](https://img.shields.io/badge/TikTok-010101?e&logo=tiktok&logoColor=white)](https://tiktok.com/sgn_sa)
+[![instagram](https://img.shields.io/badge/TikTok-010101?e&logo=tiktok&logoColor=white)](https://tiktok.com/@sgn_sa)
 
 ## Events
 
