@@ -1,13 +1,13 @@
 <div align="center">
 
-[![banner](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)](https://links.saudigamenews.com)
+[![banner](https://user-images.githubusercontent.com/73927632/225927198-24ac3e95-60dd-4e82-8734-446cde4455c5.png)]()
 
 # About us
 
-[![Website](https://img.shields.io/badge/Website-SaudiGN-6945ff)](https://saudigamenews.com)
-[![links page](https://img.shields.io/badge/Links%20page-SaudiGN-ff0df9)](https://links.saudigamenews.com)
+[![Website](https://img.shields.io/badge/Website-SGN-6945ff)](https://saudigamenews.com)
+[![links page](https://img.shields.io/badge/Links%20page-SGN-ff0df9)](https://links.saudigamenews.com)
 
-منصة تدعم تطوير الألعاب محلياً
+🎮 منصة تدعم تطوير الألعاب محلياً 🎮
 
 نطمح لأن نكون وجهة المطور العربي الأولى في طريقه للنجاح
 
@@ -15,14 +15,15 @@
 
 ## News
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?lable=SaudiGN&logo=linkedin)](https://www.linkedin.com/company/saudign)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?e&logo=twitter&logoColor=white)](https://twitter.com/saudign_sa)
-[![instagram](https://img.shields.io/badge/Instagram-C13584?e&logo=instagram&logoColor=white)](https://instagram.com/saudign_sa)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/company/sgn-sa)
+[![twitter](https://img.shields.io/badge/𝕏/Twitter-000000?e&logo=x&logoColor=white)](https://x.com/sgn_ksa)
+[![instagram](https://img.shields.io/badge/Instagram-C13584?e&logo=instagram&logoColor=white)](https://instagram.com/sgn_sa)
+[![instagram](https://img.shields.io/badge/TikTok-010101?e&logo=tiktok&logoColor=white)](https://tiktok.com/sgn_sa)
 
 ## Events
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOq4LxhPRwe9CVs37plZiTQ)
-[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?&logo=itch.io&logoColor=white)](https://saudign.itch.io)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/@sgn_sa)
+[![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?&logo=itch.io&logoColor=white)](https://sgn-sa.itch.io)
 
 ## Community
 
@@ -32,8 +33,8 @@
 
 ## Donate
 
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](https://patreon.com/SaudiGN)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-13C3FF?&logo=ko-fi&logoColor=white)](https://ko-fi.com/SaudiGN)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](https://patreon.com/SGN_sa)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-13C3FF?&logo=ko-fi&logoColor=white)](https://ko-fi.com/SGN_sa)
 
 ## Review
 
